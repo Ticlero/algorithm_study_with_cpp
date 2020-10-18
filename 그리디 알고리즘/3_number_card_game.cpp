@@ -40,9 +40,6 @@ int main(void)
 	sort(arranged_v.begin(), arranged_v.end());
 
 	printf("%d", arranged_v[n - 1]);
-
-
-	
 	return 0;
 }
 
